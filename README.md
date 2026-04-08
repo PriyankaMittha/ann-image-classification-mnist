@@ -87,11 +87,12 @@ The ANN model was successfully implemented using TensorFlow and Keras. It effect
 --- 
 
 ## 📁 Project Structure
+```
 ann-image-classification-mnist/
 │── ann_model.ipynb
 │── README.md
 │── requirements.txt
-
+```
 ---
 
 ## 🤝 Connect with Me
