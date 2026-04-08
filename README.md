@@ -70,9 +70,13 @@ Errors are calculated and weights are updated to minimize loss.
 ## ⚙️ Activation Functions
 
 **ReLU**: Used in hidden layers
+
 **Softmax**: Used in output layer for probability distribution
+
 **📉 Loss Function**: Sparse Categorical Crossentropy for multi-class classification
+
 **⚡ Optimizer**: SGD (Stochastic Gradient Descent) used for training
+
 **🧩 Flatten Layer**: Converts 2D image (28×28) into 1D vector (784)
 
 ---
